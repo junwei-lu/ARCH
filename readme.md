@@ -7,6 +7,8 @@ ARCH is a package designed for constructing a large-scale knowledge graph (KG) b
 **Gan, Ziming, et al. "Arch: Large-scale knowledge graph via aggregated narrative codified health records analysis." medRxiv (2023).**.
 
 <img src="https://github.com/junwei-lu/ARCH/blob/main/img/arch.png"/>
+
+
 ## Prerequisites
 
 - Python 3.x
